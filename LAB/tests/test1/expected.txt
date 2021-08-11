@@ -1,0 +1,8 @@
+push rbp
+mov rbp, rsp
+
+10: 30: jmp 10
+jmp 30
+
+pop rbp
+ret

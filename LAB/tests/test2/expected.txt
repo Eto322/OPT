@@ -1,0 +1,4 @@
+push rbp
+mov rbp, rsp
+
+ERROR: (row: 2, colm: 10). Label '10' was declared
